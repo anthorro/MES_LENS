@@ -1,0 +1,11 @@
+This is a very simple stereo lens shader for mental ray, which I created to 
+experiment with rendering both the left and right frame IN THE SAME FILE.
+The proposed benefits would be:
+ - no camera rig required. 
+ - simpler compositing, especially of multi-pass renderings. 
+
+It works but was never used, so I have no idea if the stereo effect is correct for any uses. 
+
+I should add - it was created for XSI, probably version 5, on intel, and this repo contains the SPDL files as well. 
+enjoy - 
+anthor@mesmer.com
