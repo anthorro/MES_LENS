@@ -1,0 +1,6 @@
+# Shaderwizard configuration data
+mr_shader: true
+rt_shader: false
+sources: mes_lens.cpp
+headers: mes_lens.h
+spdls: mes_lens.spdl

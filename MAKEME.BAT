@@ -1,0 +1,2 @@
+cl /c /O2 /G6 /MD /nologo /W3 /IC:\Softimage\XSI_4.2\XSISDK\include -DWIN_NT mes_lens.cpp
+link /nologo /nodefaultlib:LIBC.LIB /OPT:NOREF /INCREMENTAL:NO /DLL /OUT:mes_lens.dll mes_lens.obj C:\Softimage\XSI_4.2\XSISDK\lib\nt-x86\shader.lib
